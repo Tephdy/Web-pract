@@ -297,12 +297,12 @@ main{
 
     .text h1{
         font-size: 80px !important;
-        text-align: center;
+        text-align: center !important;
     }
 
     .text p, .text p span{
         font-size: 30px;
-        text-align: center;
+        text-align: center !important;
     }
 
     .text p span{
