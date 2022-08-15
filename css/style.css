@@ -186,6 +186,10 @@ main{
         display: block;
     }
 
+    ::-webkit-scrollbar {
+        display: none;
+      }
+
     nav{
         /* background-color: #72EDF2; */
         background-image: linear-gradient( 135deg, #5151E5 10%,#72EDF2  100%);
