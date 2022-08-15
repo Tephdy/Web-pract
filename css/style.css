@@ -290,7 +290,7 @@ main{
 
     .text{
         width: 100vw;
-        margin-top: 50px !important;
+        margin-top: -50px !important;
         position: relative;
     }
 
