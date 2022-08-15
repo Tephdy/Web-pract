@@ -296,7 +296,7 @@ main{
     }
 
     .text h1{
-        font-size: 80px;
+        font-size: 80px !important;
     }
 
     .text p, .text p span{
