@@ -289,9 +289,8 @@ main{
     }
 
     .text{
-      
         width: 100vw;
-        margin-top: -80px !important;
+        top: -20px !important;
         position: relative;
     }
 
