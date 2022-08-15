@@ -108,6 +108,7 @@ main{
     overflow-x: hidden;
     /* width: 100vw;
     overflow-x: hidden; */
+    background-image: linear-gradient( 135deg, #72EDF2 10%, #5151E5 100%);
 }
 
 .flex-container{
